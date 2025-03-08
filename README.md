@@ -74,4 +74,6 @@ This is the quest to build a C++ structure that doesn't get in the way (of the k
         }
         ```
 
+        > Is CRTP an interesting option for something like this...?
+
 
